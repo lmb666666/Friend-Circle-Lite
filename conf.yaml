@@ -46,7 +46,7 @@ merge_settings:
 #   enable_backlink_check: 是否检测友链页是否包含你的站点链接
 #   author_url:            你的站点域名，用于反链检测，建议只填写域名
 link_check:
-  max_age_hours: 24
+  max_age_hours: 0
   timeout: 15
   max_workers: 10
   status_api_url: "https://v2.xxapi.cn/api/status?url={url}"
