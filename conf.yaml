@@ -83,7 +83,5 @@ smtp:
 # 特殊 RSS 地址指定
 # 说明：用于指定特殊 RSS 地址，比如 B 站专栏等不常见 RSS 地址后缀。可以置空，但不要删除此项。
 specific_RSS:
-  - name: "menkar"
-    url: "https://www.blatr.cn/api/v1/subscribe/rss"
   # - name: "无名小栈"
   #   url: "https://blog.imsyy.top/rss.xml"
